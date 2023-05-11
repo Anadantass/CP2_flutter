@@ -6,8 +6,8 @@ final kRepositoriesMock = [
     id: 188897530,
     name: "fiap",
     owner: Owner(
-      login: "josecastillolema",
-      avatar: "https://avatars.githubusercontent.com/u/7546521?v=4",
+      login: "Masqueico",
+      avatar: "https://yt3.googleusercontent.com/d6QH_wbWqDZU3V84Nexd4fZSlPXPaVYMP_zdwkwxqM8lwonDM7jIkarafzmOL_9svRGCViTU=s900-c-k-c0x00ffffff-no-rj",
     ),
     htmlUrl: "https://github.com/josecastillolema/fiap",
     description: "Aplicações para os cursos de pós-graduação da FIAP",
